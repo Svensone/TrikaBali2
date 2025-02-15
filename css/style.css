@@ -171,6 +171,8 @@ textarea.form-control {
   height: 100vh;
   min-height: 700px;
   width: 100%;
+  background-position: center center;
+  position: center;
 }
 
 .site-hero .scroll-down {
